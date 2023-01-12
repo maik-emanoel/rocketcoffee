@@ -124,7 +124,7 @@ header nav ul li:hover a{
   font-weight: 800;
   font-size: 1.1rem;
 
-  transition: all .4s;
+  transition: all .3s ease-in-out;
 }
 
 .btn:hover {
@@ -304,6 +304,12 @@ body::-webkit-scrollbar-thumb {
 
     margin-inline: auto;
     margin-bottom: 96px;
+
+    transition: background .2s ease-in-out;
+  }
+
+  .btn:nth-child(2):hover {
+    box-shadow: none;
   }
 
   main .title {
