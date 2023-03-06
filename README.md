@@ -16,9 +16,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- Git and GitHub
 
 ## 💻 Projeto
 
 O RocketCoffee é uma homepage de uma marca de bebidas cafeínadas. <br>
 
-Obs: Projeto construído a partir da área de desafios do Programa Discover da [Rocketseat](https://rocketseat.com.br). Após ter desenvolvido o layout proposto, adicionei um barra de rolagem personalizada, animações e efeitos hover nos botões.
+Obs: Projeto construído a partir da área de desafios do Programa Discover da [Rocketseat](https://rocketseat.com.br). Após o desenvolvimento do projeto inicial, adicionei novas features, tais quais:
+
+- Barra de rolagem personalizada
+- Animações
+- Efeitos hover nos botões
+- Entre outras pequenas modificações.
